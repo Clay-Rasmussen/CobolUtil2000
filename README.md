@@ -26,7 +26,7 @@ ___
 
 ## Running Output
 ___
-![Program Output](assets/UTIL2000_Output.png)
+![Program Output](assets/UTIL2000.png)
 
 ## Help
 ___
