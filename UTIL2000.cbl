@@ -3,8 +3,10 @@
 000300***************************************************************** 00030000
 000400*  Programmer.: Clay Rasmussen                                    00040001
 000500*  Date.......: February 10, 2025                                 00050001
-000600*  GitHub URL.:                                                   00060000
-000700*  Description:                                                   00070000
+000600*  GitHub URL.: github.com/Clay-Rasmussen/CobolUtil2000           00060003
+000700*  Description: This COBOL program is a utility billing system    00070003
+000710*  that calculates and prints monthly bills for multiple          00071003
+000720*  customers based on their kilowatt-hours (kWh) used.            00072003
 000800***************************************************************** 00080000
 000900 DATA DIVISION.                                                   00090000
 001000 WORKING-STORAGE SECTION.                                         00100000
