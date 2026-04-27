@@ -7,11 +7,22 @@ This COBOl program is a utility billing system called UTIL2000 that calculates a
 
 ## Table of Contents
 ___
+* [New Concepts](#new-concepts)
 * [Tech Stack](#tech-stack)
 * [Installation](#installation)
 * [Running Output](#running-output)
+* [Learning Outcomes](#learning-outcomes)
 * [Help](#help)
 * [Authors](#authors)
+
+## New Concepts
+___
+* Processing multiple customer records in a single program
+* Using loops to handle repeated calculations (batch-style processing)
+* Conditional logic for billing rates based on kWh usage
+* Accumulating totals for reporting (e.g., total usage or total charges)
+* Formatting structured output for readable billing statements
+* Working with input/output files or simulated data sets
 
 ## Tech Stack
 ___
@@ -27,6 +38,15 @@ ___
 ## Running Output
 ___
 ![Program Output](assets/UTIL2000.png)
+
+## Learning Outcomes
+___
+* Understand how COBOL handles real-world business applications like utility billing
+* Apply conditional logic to calculate tiered or usage-based charges
+* Develop skills in processing multiple records efficiently
+* Practice organizing program logic for readability and maintainability
+* Gain experience with formatted output for reports and customer statements
+* Strengthen problem-solving skills using procedural programming techniques
 
 ## Help
 ___
